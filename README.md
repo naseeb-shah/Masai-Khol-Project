@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Masai-KHOL'S-Project
+=======
+# Masai-Khol-Project
+>>>>>>> Naseeb-khan
 
 ## KHOL'S CLONE
 

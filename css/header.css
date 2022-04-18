@@ -133,7 +133,7 @@ header {
     margin-bottom: 10px;
 }
 
-#user_drop_down>div>div:first-child>button{
+#user_drop_down>div>div:first-child>a>button{
     width: 45%;
     padding: 10px;
     color: white;

@@ -17,7 +17,7 @@ user.addEventListener('click',() => {
 })
 
 function list_category() {
-    var arr = ["Mother's Day", "For the Home", "Women", "Women's Plus Size", "Juniors", "Men", "Men's Big & Tall",
+    var arr = ["Mother's Day", "For the Home", "<a href='/Masai-Khol-Project/womenProduct.html' style='text-decoration:none;color:black;'>Women</a>", "Women's Plus Size", "Juniors", "<a href='/Masai-Khol-Project/mens_section.html' style='text-decoration:none;color:black;'>Men</a>", "Men's Big & Tall",
         "Shoes", "Kids &Toys", "Baby", "Outdoor Living", "Bed &Bath", "Furniture & Decor", "Jewelry & Accessories",
         "Active & Wellness", "Beauty I SEPHORA", "Sports Fan", "New & Trending", "Diversity, Inclusion&Belonging",
         "Sale & Clearance"]
